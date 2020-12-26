@@ -14,9 +14,3 @@ isOffline = int(isOffline)
 
 print(isOffline)
 print(type(isOffline))
-
-
-print()
-print("KK")
-
-
